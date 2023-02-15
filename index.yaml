@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  estebanchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-02-15T17:38:57.165898295+01:00"
+    description: A Helm chart for Kubernetes
+    digest: e4ea0a2b69d68cf9a1d00d1ff9e0571cd0c5bf4f499b4d827ad657b2520a8b04
+    name: estebanchart
+    type: application
+    urls:
+    - charts/estebanchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-02-15T17:38:57.165394617+01:00"
